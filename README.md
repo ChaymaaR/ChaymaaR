@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChaymaaR
 - 👀 I’m interested in Innovation, Science and Technology related to Energy Management Systems
-- 🌱 I’m currently learning Python & VBA as I am persuing my studies as an MBA in Energy, Management and IT, in Paris.
+- 🌱 I’m currently learning Python & VBA as I am persuing my studies as an MBA student in Energy, Management and IT, in Paris.
 - 💞️ I’m looking to collaborate on different projects related to Energy Systems.
 - 📫 How to reach me : https://www.linkedin.com/in/rifarchaymaa/
 
